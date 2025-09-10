@@ -1,0 +1,11 @@
+//==================== CC Attribution Credits ====================//
+//
+// Purpose: to properly credit authors of the example models for GLEWF / LeafGL
+//
+//===============================================================//
+
+"titanic high poly obj" (https://skfb.ly/oK9n9) by BlueStreak is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Low-poly Portal Gun" (https://skfb.ly/osKWw) by nequ16 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+(TRIANGLE.OBJ WAS AUTO-GENERATED)
